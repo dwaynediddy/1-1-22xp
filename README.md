@@ -4,6 +4,9 @@
 https://www.educative.io/blog/react-and-typescript
 https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example/
 
+//nextjs with typescript
+https://blog.logrocket.com/using-next-js-with-typescript/#creating-typescript-types-next-js
+
 //react use form
 https://www.react-hook-form.com/api/useform/
 
@@ -19,3 +22,10 @@ https://elm-lang.org/docs/from-javascript
 
 //stripe
 https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
+
+// nextjs react-app gatsby comparison
+https://pagepro.co/blog/nextjs-vs-react/
+https://pagepro.co/blog/nextjs-vs-gatsbyjs-comparison/
+
+// grphql
+https://www.howtographql.com/
